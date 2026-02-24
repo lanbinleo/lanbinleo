@@ -21,12 +21,6 @@ AI 重度依赖者，经常把自己的一些小工具放上来，基本上假�
 平时也会写写小随笔什么的。
 
 ## 我的代码 
-旧账号@lanbinshijie
-<div align="left"><img height="137px" src="https://github-readme-stats-beta-eight-31.vercel.app
-/api?username=lanbinshijie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="Stat"/> 
-<img align="" height="137px" src="https://github-readme-stats-beta-eight-31.vercel.app/api/top-langs/?username=lanbinshijie&hide_title=true&hide_border=true&layout=compact&bg_color=ffffff&theme=graywhite&locale=cn" alt="Stat"/>
-
-新账号@lanbinleo
 <div align="left"><img height="137px" src="https://github-readme-stats-beta-eight-31.vercel.app/api?username=lanbinleo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="Stat"/> 
 <img align="" height="137px" width="304px" src="https://github-readme-stats-beta-eight-31.vercel.app/api/top-langs/?username=lanbinleo&hide_title=true&hide_border=true&layout=compact&bg_color=ffffff&theme=graywhite&locale=cn" alt="Stat"/>
 </div> 
