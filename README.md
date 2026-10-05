@@ -4,10 +4,9 @@
 <h3 align="center">你好，欢迎来到我的主页</h3>
 <p align="center">敏感是一份礼物，只不过需要一个懂的人拆开</p>
 <div align="center">
-  <a href="https://maxqi.top/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
-  <a href="/lanbinshijie"><img src="https://img.shields.io/badge/旧账号-lanbinshijie-yellow"></a>&emsp;
+  <a href="https://leoreo.me/"><img src="https://img.shields.io/badge/Blog-我的博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/511022936"><img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="mailto:me@mura.ink"><img src="https://img.shields.io/badge/Email-邮箱-green"></a>&emsp;
+  <a href="mailto:lanbinwolf@gmail.com"><img src="https://img.shields.io/badge/Email-邮箱-green"></a>&emsp;
 </div>
 
 <hr>
